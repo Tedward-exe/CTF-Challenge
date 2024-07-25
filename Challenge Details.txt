@@ -1,5 +1,0 @@
-There is a login page on a simple blog. Reading the blog, the owner of the website is a novice at cybersecurity. You can guess that they have a weak password- it's literally "password". You get their username from the blog post and log in.
-
-Name: MyCoolWebsite3
-Question: Investigate this website. It's speculated that the owner is hiding a flag somewhere.
-Answer: lbctf{n3wUpd@t3s$00n!}
