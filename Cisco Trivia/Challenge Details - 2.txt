@@ -1,0 +1,3 @@
+Question: OK ROUND TWO!!! What's the command to designate a port as an access port under VLAN 10?
+
+Answer: switchport access vlan 10
