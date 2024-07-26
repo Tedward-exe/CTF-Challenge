@@ -1,0 +1,3 @@
+Question: All right! Question 4: I'm configuring STP on my network, but I can't seem to figure out which switch is the root bridge! Can you help me? If the answer is Switch 8, format your answer as lbctf{switch8}. Remember, you have 2 guesses!
+
+Answer: lbctf{switch4}
