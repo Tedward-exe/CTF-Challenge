@@ -1,0 +1,5 @@
+The text is encoded using a technique utilized by the Americans using the Navajo alphabet. Pretty cool! https://www.dcode.fr/navajo-code
+
+Question: Decode the provided message: AH-JAD NA-HASH-CHID BA-GOSHI THAN-ZIE MA-E{BA-GOSHI A-KHA LHA-CHA-EH DZEH_A-WOH TSE-NILL NASH-DOIE-TSO BA-AH-NE-DI-TININ DZEH AH-LOSZ)
+
+Answer: lbctf{code_talker}
