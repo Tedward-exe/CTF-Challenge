@@ -1,0 +1,3 @@
+Question: Ok: number 3! Here's where it gets interesting. Let's say you want to apply static NAT to your home PC; It's private address is 172.16.0.1, and you want to make its public address 10.0.0.1. Write the command to create the NAT rule (not apply it to an interface). Put your answer in the format lbctf{COMMAND HERE}, and use full commands, no abbreviations.
+
+Answer: lbctf{ip nat inside source static 172.16.0.1 10.0.0.1}
