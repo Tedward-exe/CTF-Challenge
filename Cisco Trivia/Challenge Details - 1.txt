@@ -1,0 +1,3 @@
+Question: Who's ready for some trivia‽‽‽ OK: what's the command on a Cisco router to assign the 2nd useable IP of the 192.168.3.0 /24 block? Use full commands, put your answer in the form lbctf{INSERT COMMAND HERE}.
+
+Answer: ip address 192.168.3.2 255.255.255.0
