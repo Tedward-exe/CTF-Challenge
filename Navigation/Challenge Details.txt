@@ -1,0 +1,5 @@
+Its a big text doc with the flag in plaintext. ctrl + f to find it.
+
+Question: There's a flag somewhere in this text doc. I wonder if there's a way you can search for it.
+
+Answer: lbctf{ctrl_f_4_da_win!}
