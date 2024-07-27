@@ -1,0 +1,5 @@
+Question: My friend messed up my message? Can you sort through it for the flag? It seems his message has a lot of copy and pasted text in it.
+
+Hint: Its a big text doc with the flag split up letter by letter with a long, uniform text string. Just use find and replace.
+
+Answer: lbctf{wHy_r_U_tH3_W@y_th@t_Y0u_ar3?}
