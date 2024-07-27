@@ -1,0 +1,5 @@
+The .png is a .docx file that is renamed. Simple.
+
+Question: Something happened when I was saving my english homework. Can you change this file back?
+
+Answer: lbctf{wh00p$!_typ0!}
