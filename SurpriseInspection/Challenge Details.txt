@@ -1,0 +1,3 @@
+Question: There's a flag here, but it's gonna take a little inspection. easy!
+
+Answer: lbctf{super_easy!}
