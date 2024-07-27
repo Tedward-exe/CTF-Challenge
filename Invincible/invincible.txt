@@ -1,0 +1,6 @@
+Invincible 
+	I heard hashes could never be cracked. Well then, crack this hash. 
+	77771936dd517af5a650ca181f1036f6
+	sumbit with the flag header lbctf{}
+	Solution: MD5 hash lbctf{goldenapples}
+ 
