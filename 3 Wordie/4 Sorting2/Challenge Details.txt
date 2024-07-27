@@ -1,0 +1,5 @@
+There is a flag seperated per letter by 1000 characters each time. Write a program to remove every 1000 words, skipping 1 each time.
+
+Description: My files got messed up again, can you find the flag?
+
+Answer: lbctf{sAY_HeLlO_tO_prisn_MIKE}
