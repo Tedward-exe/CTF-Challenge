@@ -1,0 +1,7 @@
+Name: Boating
+Difficulty: Easy
+Description:
+	Question: look at those boats.... they carry a hidden truth.
+	Find the message!
+Answer: lbctf{you_found_m3_fr33nwne}
+(This challenge uses https://www.futureboy.us/stegano/ to encode a message)
