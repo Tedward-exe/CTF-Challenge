@@ -1,0 +1,3 @@
+Question: Find the wordle word for January 20th 2027. Good luck.
+
+Answer: lbctf{yacht}
