@@ -1,0 +1,5 @@
+Question: I really like winning at wordle, but I'm not good at it. My friend told me there was a trick to find all the words. Can you help me? What will the word be next year, on Monday, April 25? Use this link:
+
+Hint: Once you have accessed the page, inspect element and find the JavaScript file and find today's word, "epoxy".
+
+Answer: lbctf{mukdk}
